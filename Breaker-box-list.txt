@@ -1,0 +1,48 @@
+1. Main Breaker 220
+
+2. Spare 220
+
+3. Spare 220
+
+4. Basement Dryer 220
+
+5. Spare 220
+
+6.Kitchen Lights, Living Room, 1st Floor Bathroom Lights
+
+7. TV/ Front Entry ,  Sidedoor Entry, Den, Landing Outlets 
+
+8. Dishwasher
+
+9. Off
+
+10. Garbage Disposal
+
+11. 1st Floor Bathroom outlets/dryer
+
+12. Kitchen Outlets
+
+13. Furnace
+
+14. Kitchen Outlets 
+
+15. Den Outlets
+
+16. Off
+
+17.1st Floor Bathroom outlets/washer
+
+18. Basement Little Room
+
+19-top. Basement Bathroom
+19-bottom. Master Bedroom(outlets), Middle Bedroom(outlets)
+
+20. Basement Living Room
+
+21. 2nd Floor Bathroom, 2nd Floor Hallway
+
+22. Basement Kitchen
+
+23. 1st Floor Range/Oven
+
+24. Basement Laundry Room, Basement Large Room 
